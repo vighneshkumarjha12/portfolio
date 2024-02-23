@@ -49,7 +49,7 @@ export const Skill_data = [
   },
   {
     skill_name: "Next js 13",
-    Image: "/next.png",
+    Image: "/next.jpg",
     width: 80,
     height: 80,
   },
