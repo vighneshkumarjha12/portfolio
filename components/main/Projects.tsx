@@ -25,7 +25,7 @@ const Projects = () => {
           I created a user-friendly Lung Cancer Prediction System using Django. It helps detect cancer early with accurate results, blending medical knowledge and tech. Trust my skills to make a difference in predicting lung cancer, where accuracy meets simplicity. Explore the universe with my coding magic!"
         />
         <ProjectCard
-          src="/Space.png"
+          src="/pp.png"
           title="Space Themed Website"
           description="My space-themed website seamlessly blends stunning visuals and interactive tools, a testament to my web development expertise. Explore the universe with my coding magic!"
         />

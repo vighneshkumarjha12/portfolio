@@ -55,7 +55,9 @@ const HeroContent = () => {
         >
         
 
-          Contact :- "Vighneshjha27@gmail.com"
+         Contact :-7028851769
+
+
        
         </motion.a>
       </div>
