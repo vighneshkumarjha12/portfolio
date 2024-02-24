@@ -47,12 +47,7 @@ export const Skill_data = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Next js 13",
-    Image: "/next.jpg",
-    width: 80,
-    height: 80,
-  },
+
 
   {
     skill_name: "Node js",
